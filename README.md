@@ -1,4 +1,4 @@
-# Rain-BotV2
+# HanzBotV2
 
 <p align="center">
 	<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrF6fyFoGCHmsmOXWjFxIXh-467D1nRhA4mQ&usqp=CAU" width="75%" style="margin-left: auto;margin-right: auto;display: block;">
@@ -6,24 +6,24 @@
 
 </p>
 <p align="center">
-<a href="#"><img title="RAIN - BOTV2" src="https://img.shields.io/badge/Rainbotv2-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="HanzBotV2" src="https://img.shields.io/badge/Rainbotv2-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Rizxyu"><img title="Rizxyu" src="https://img.shields.io/badge/Author-Rizky-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Hanzz20"><img title="Hanzz20" src="https://img.shields.io/badge/Author-Rizky-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 </p>
 </div>
 <p align="center">
-<a href="https://github.com/Rizxyu/followers"><img title="Followers" src="https://img.shields.io/github/followers/Rizxyu?style=flat-square"></a>
-<a href="https://github.com/Rizxyu/Rain-BotV2/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/Rizxyu/Rain-BotV2?style=flat-square"></a>
-<a href="https://github.com/Rizxyu/Rain-BotV2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Rizxyu/Rain-BotV2?style=flat-square"></a>
-<a href="https://github.com/Rizxyu/Rain-BotV2/watchers"><img title="watchers" src="https://img.shields.io/github/watchers/Rizxyu/Rain-BotV2?style=flat-square"></a>
+<a href="https://github.com/Hanzz20/followers"><img title="Followers" src="https://img.shields.io/github/followers/Hanzz20?style=flat-square"></a>
+<a href="https://github.com/Hanzz20/hanzzbot/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/Hanzz20/hanzzbot?style=flat-square"></a>
+<a href="https://github.com/Hanzz20/hanzzbot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Hanzz20/hanzzbot?style=flat-square"></a>
+<a href="https://github.com/Hanzz20/hanzzbot/watchers"><img title="watchers" src="https://img.shields.io/github/watchers/Hanzz20/hanzzbot?style=flat-square"></a>
 </p>
 
 
 #### Join Group
-[![Group Bot](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/ITjd9jsIfBAK5byfdb2cxj)
+[![Group Bot](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/E2xNJ4GL0V4ILj0qbHsJUx)
 
 #### ONLY RUN RAILWAY
 [`railway.app`](https://railway.app/new/github)
@@ -33,7 +33,7 @@
 
 #### ✍️ Editing the file
 
-Edit the required value in [`config.js`](https://github.com/Rizxyu/Rain-BotV2/blob/main/config.js)
+Edit the required value in [`config.js`](https://github.com/Hanzz20/hanzzbot/blob/main/config.js)
 
 #### Heroku Buildpack
 | BuildPack | LINK |
@@ -47,6 +47,7 @@ Edit the required value in [`config.js`](https://github.com/Rizxyu/Rain-BotV2/bl
 not for termux
 ```
 
+
 ### FOR TERMUX USER
 1. Type mentioned below given commands one by one in Termux.
 ```sh
@@ -55,9 +56,15 @@ $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ git clone https://github.com/Rizxyu/Rain-BotV2
-$ cd Rain-BotV2
+$ git clone https://github.com/Hanzz20/hanzzbot
+$ cd hanzzbot
 $ npm i 
+```
+
+### Recomended For Termux
+```sh
+$ pkg install yarn
+$ yarn
 ```
 
 ```sh
@@ -102,8 +109,8 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/Rizxyu/Rain-BotV2
-cd Rain-BotV2
+git clone https://github.com/Hanzz20/hanzzbot
+cd hanzzbot
 npm install
 npm update
 ```
@@ -118,8 +125,8 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/Rizxyu/Rain-BotV2
-cd Rain-BotV2
+git clone https://github.com/Hanzz20/hanzzbot
+cd hanzzbot
 npm install
 npm update
 ```
@@ -237,3 +244,4 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 [![BochilGaming](https://github.com/BochilGaming.png?size=100)](https://github.com/BochilGaming)
 [![Rizxyu](https://github.com/Rizxyu.png?size=100)](https://github.com/Rizxyu)
 [![ibrahKrep](https://github.com/ibrahKrep.png?size=100)](https://github.com/ibrahKrep)
+[![MuhammadRestu999](https://github.com/MuhammadRestu999.png?size=100)](https://github.com/MuhammadRestu999)
